@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bikesSharing", "bikesSharing\bikesSharing.csproj", "{F1F196D3-883D-4049-BB53-CA7DFFA80033}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "720", "..\..\720\720\720\720.csproj", "{BA75FE61-EC8B-473C-A152-3C23F74E3779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "..\..\窗口磨砂\窗口磨砂\WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{23BF952B-AC24-45C7-9A7E-4514F1EF1530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F1F196D3-883D-4049-BB53-CA7DFFA80033}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1F196D3-883D-4049-BB53-CA7DFFA80033}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1F196D3-883D-4049-BB53-CA7DFFA80033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA75FE61-EC8B-473C-A152-3C23F74E3779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA75FE61-EC8B-473C-A152-3C23F74E3779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA75FE61-EC8B-473C-A152-3C23F74E3779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA75FE61-EC8B-473C-A152-3C23F74E3779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BF952B-AC24-45C7-9A7E-4514F1EF1530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BF952B-AC24-45C7-9A7E-4514F1EF1530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BF952B-AC24-45C7-9A7E-4514F1EF1530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BF952B-AC24-45C7-9A7E-4514F1EF1530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

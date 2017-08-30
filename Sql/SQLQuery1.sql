@@ -1,0 +1,1 @@
+﻿ALTER DATABASE [bikesSharing] COLLATE Chinese_PRC_CI_AS
